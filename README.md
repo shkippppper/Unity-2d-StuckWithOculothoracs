@@ -4,9 +4,7 @@ A 2d story driven platformer game made in 7 days. with immerse mechanics and rep
 # Story:
 LostWithOculothoracs is a singleplayer platformer story-based game, where you the hero are stranded with steven the oculothoracs. Throuought the game you collect different artifacts in different realms, to craft the portal home, But the story twists when...
 
-# Link to game:
-
-> https://atitb.itch.io/stuckwithoculothoracs
+# [Play](https://atitb.itch.io/stuckwithoculothoracs)
 
 
 
